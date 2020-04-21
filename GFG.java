@@ -92,4 +92,3 @@ class GFG {
 		System.out.println(minXOR(arr, n));
 	}
 }
-//This code is contributed by Sumit Ghosh 
